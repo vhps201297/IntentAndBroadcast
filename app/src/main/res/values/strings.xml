@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExampleIntents</string>
+    <string name="str_intent_filter">Intent-Filter</string>
+    <string name="str_broadcast_receiver">Broadcast receiver</string>
+    <string name="str_enviar_mensaje">Enviar mensaje</string>
+    <string name="str_mensaje">Mensaje</string>
+</resources>
